@@ -1,0 +1,62 @@
+00000,  9380, Snøheim, 1475
+00000, 15262, Juvflye-Mimisbrunnr, 1844
+00000, 16271, Høvringen II, 940
+00000, 32220, Lifjell-Øysteinnatten, 1102
+00000, 46432, Røldalsfjellet-Elvershei, 1370
+00000, 49087, Folgefonna Skisenter Topp, 1390
+00000, 51990, Myrkdalen-Vetlebotn, 700
+00000, 57790, Myklebustfjellet, 715
+00000, 60190, Roaldshornet, 1050
+00000, 80707, Glomfjord-Tverrfjellet, 930
+00000, 81775, Lønsdal stasjon, 520
+00000, 84630, Narvik-Fagernesfjellet, 1000
+00000, 87000, Ånstadblåheia, 500
+00000, 89985, Sjufjellet, 1020
+00000, 91120, Lyngen-Gjerdelvdalen, 670
+00000, 91729, Arnøya-Trolltinden, 850
+00000, 92860, Øksfjord-Deallja, 560
+01018, 87120, Andøya-Trolltinden, 436
+01030, 89010, Kistefjell, 982
+01035, 91130, Lyngen-Gjerdvassbu, 710
+01036, 91500, Nordnesfjellet, 500
+01042, 93000, Hasvik-Sluskfjellet, 438
+01058, 93301, Suolovuopmi Lulit, 381
+01064, 97710, Iskoras II, 591
+01091, 84210, Losistua, 740
+01199, 93900, Sihcajavri, 382
+01220, 61410, Mannen, 1294
+01229, 60810, Lebergsfjellet, 625
+01238, 16610, Fokstugu, 973
+01239, 9310, Hjerkinn, 1012
+01287, 10800, Sølendet, 760
+01287, 10800, Sølendet, 760
+01288, 10380, Røros, 625
+01340, 49800, Fet i Eidfjord, 736
+01344, 51800, Mjølfjell, 695
+01345, 53480, Klevavatnet, 960
+01346, 53530, Midtstova, 1162
+01350, 25830, Finsevatn, 1210
+01352, 29400, Sandhaug, 1250
+01356, 55230, Fannaråki, 2062
+01357,25112, Hollekolten, 807
+01359, 25630, Geilo-Oldebråten, 772
+01361, 15890, Grotli, 872
+01362, 15270, Juvvasshøe, 1894
+01363, 29720, Dagali lufthavn, 798
+01364, 54710, Filefjell-Kyrkjestølane, 956
+01365, 23550, Beitostølen, 965
+01366, 55290, Sognefjellhytta, 1413
+01368, 23410, Fagernes lufthavn, 822
+01370, 13655, Skåbu, 928
+01375, 13160, Kvitfjell, 1030
+01380, 13420, Venabu, 930
+01428, 46430, Røldalsfjellet, 1010
+01433, 46510, Midtlæger, 1079
+01434, 33890, Vågsli, 821
+01435, 33950, Haukeliseter, 1010
+01440, 40510, Blåsjø, 1105
+01441, 40880, Hovden-Lundane, 841
+01450, 31620, Møsstrand, 977
+01461, 31970, Gaustatoppen, 1804
+01515, 60240, Åkerneset, 900
+01608, 25541, Bakko i Hol II, 1020
