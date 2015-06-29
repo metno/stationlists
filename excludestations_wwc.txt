@@ -1,0 +1,65 @@
+#
+# Ishavsstations
+#
+99950, # Jan Mayen
+99927, # Verlegenhuken
+99754, # Hornsund
+99760, # Sveagruva
+99735, # Edgeøya - Kapp Heuglin
+99790, # Isfjord radio
+99910, # Ny-Ålesund
+99840, # Svalbard lufthavn
+99935, # Karl XII øya
+99938, # Kvitøya
+99740, # Kongsøya
+99765, # Akseløya
+87120, # Andøya - Trolltinden
+99752, # Sørkappøya
+90720, # Måsvik
+90721, # Rebbenesøy - Gråhaugen
+99880, # Pyramiden
+99710, # Bjørnøya
+89010, # Kistefjell
+90760, # Fakken
+94130, # Rihpojavri
+99430, # Bjørnevatn
+99720, # Hopen
+99990, # Troll i Antarktis
+99820, # Barentsburg
+#
+# PLU stations:
+#
+26932, # Drammen-Austad
+26852, # Drammen-Bragernes skole
+26594, # Drammen-Danvik
+27015, # Drammen-Jarlsbergveien
+26934, # Drammen-Solumstrand
+26864, # Drammen sykehus
+26862, # Drammen tinghus
+26872, # Drammen-Øren skole
+26898, # Drammen-Åssiden
+18245, # Oslo-Ammerud
+18920, # Oslo-Besserud
+18390, # Oslo-Bjølsen
+18701, # Oslo-Blindern PLU
+18703, # Oslo-Blindern testfelt
+18215, # Oslo-Brobekk
+18420, # Oslo-Disen
+18235, # Oslo-Furuset
+18269, # Oslo-Haugenstua
+18210, # Oslo-Hovin
+18260, # Oslo-Høybråten
+18195, # Oslo-Høyenhall
+18440, # Oslo-Kjelsås
+18162, # Oslo-Kværnerbyen
+18020, # Oslo-Lambertseter
+18980, # Oslo-Lilleaker
+17980, # Oslo-Ljabruveien
+18205, # Oslo-Løren
+18233, # Oslo-Nyland
+18165, # Oslo-Ryen
+18645, # Oslo-Solli plass
+18225, # Oslo-Tonsenhagen
+18180, # Oslo-Trasop
+18310, # Oslo-Tøyen
+18170, # Oslo-Østensjø
