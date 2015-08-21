@@ -1,0 +1,198 @@
+(Hedmark)			
+180	397	Trysil vegstasjon 		14
+700	393	Drevsjø				18
+5590	468	Kongsvinger			7
+5660	472	Roverud				7
+6020	392	Flisa II			7
+7420	388	Rena - Ørnhaugen		20
+7950	389	Rena Flyplass			12
+8880		Alvdal				16
+9160	250	Folldal - Fredheim		18
+9580	265	Tynset - Hansmoen		16
+12180		Ilseng				8
+12290	386	Hamar II			7
+12320	385	Hamar - Stavsberg		9
+12550	382	Kise på Hedmark			7
+(Oppland)			
+9310	239	Hjerkinn II			31
+11500	381	Østre Toten - Apelsvoll		10
+12680	378	Lillehammer - Sætherengen	9
+13030		Gausdal - Follebu		12
+13150	387	Fåvang				10
+13420	380	Venabu				20
+13655	370	Skåbu				20
+14200	525	Leirflaten			16
+15730	360	Bråtå - Slettom			17
+15890	361	Grotli III			20
+16271		Høvringen			30
+16560	233	Dombås - Nordigard 		17
+16610	238	Fokstugu			30
+20540		Gran				6
+23160	369	Åbjørsbråten			16
+23500	371	Løken i Volbu			15
+23550	365	Beitostølen II			21
+54710	364	Filefjell - Kyrkjestølane	21
+61630	230	Bjorli				16
+(Buskerud)			
+19940		Lier				1
+20301	469	Hønefoss - Høyby		4
+24710	376	Gulsvik II			5
+24890	373	Nesbyen - Todokk		6
+25630	359	Geilo - Oldebråten 		20
+26820		Hokksund			2
+26900	480	Drammen - Berskog		1
+26950		Svelvik				1
+27010	477	Konnerud			6
+28380	473	Kongsberg Brannstasjon		5
+28922	471	Veggli II			8
+(Oslo)			
+18700	492	Oslo - Blindern			3
+18815	526	Oslo - Bygdøy			2
+18950	490	Tryvannshøgda			13
+(Akershus)			
+2650	484	Aurskog II			2
+4260		Skedsmo - Hellerud		3
+4460	488	Hakadal Jernbanestasjon		5
+4780	384	Gardermoen			6
+4920	507	Årnes				5
+17850	463	Ås				1
+19710	486	Asker				3
+(Østfold)			
+3190	493	Sarpsborg			1
+3290	500	Rakkestad			1
+(Vestfold)			
+26990	485	Sande - Galleberg		1
+27315		Ramnes - Kile Vestre		1
+27450	481	Melsom				1
+27780		Tjølling			1
+(Telemark)			
+30255	462	Porsgrunn - Ås			2
+30330		Gjerpen - Århus			1
+31620	450	Møsstrand II			26
+32060	470	Gvarv - Nes			2
+32240		Bø				2
+32890	447	Høydalsmo II			13
+37230	455	Tveitsund			4
+(Aust-Agder)			
+35210	449	Gjerstad Jernbanestasjon	1
+36560	459	Nelaug				2
+38140	464	Landvik				1
+38730	453	Hynnekleiv			2
+39750	442	Byglandsfjord - Neset		3
+40250	444	Valle				4
+40880	441	Hovden - Lundane		24
+(Vest-Agder)			
+39040	452	Kjevik				1
+41670	439	Konsmo - Høyland		3
+41825		Lyngdal				1
+42940	431	Sirdal - Sinnes			13
+(Rogaland)			
+43010	425	Eik - Hove			2
+44300	413	Særheim				1
+44640	416	Stavanger - Våland		1
+45350		Lysebotn			1
+45530	419	Liarvatn			3
+45870	422	Fister - Sigmundstad		1
+46610	424	Sauda				1
+46930	417	Vats i Vindafjord		1
+(Hordaland)			
+25830	350	Finsevatn			30
+29400	352	Sandhaug			30
+46430	429	Røldalsfjellet			28
+49490	342	Ullensvang			1
+49800	340	Fet i Eidfjord			18
+49910		Ulvik - Hjeltnes		1
+50070	329	Kvamsøy				1
+50310	327	Kvamskogen - Jonshøgdi		3
+50540	317	Bergen - Florida		1
+51010	314	Fossmark			1
+51440	315	Evanger				1
+51530	337	Vossevangen			1
+51800	344	Mjølfjell			18
+51990		Myrkdalen - Vetlebotn		18
+52310	326	Modalen III			1
+(Sogn og Fjordane)			
+52860	319	Takle				1
+53101	338	Vangsnes			1
+54110	355	Lærdal IV			1
+55770		Njøs				1
+55820	332	Fjærland - Bremuseet		1
+55928		Balestrand - Bale		1
+56420	308	Fureneset			1
+57420	322	Førde - Tefre			1
+58070	318	Sandane				1
+58900	321	Stryn - Kroken			4
+(Møre og Romsdal)			
+59610	207	Fiskåbygd			1
+60240		Åkerneset			30
+60500	218	Tafjord				3
+60990	210	Vigra				1
+61410	220	Mannen				31
+61420	232	Marstein			4
+63420	226	Sunndalsøra III			5
+64510		Tingvoll			5
+64760		Surnadal - Sylte		5
+64870	221	Tågdalen			13
+(Sør-Trøndelag)			
+10380	288	Røros Lufthavn			22
+10800	287	Sølendet			27
+63705	245	Oppdal - Sæter			17
+65451	237	Hitra - Sandstad II		8
+66150	234	Orkdal - Thamshamn 		8
+67140		Skjetlein			8
+67280	253	Soknedal			12
+67560	254	Kotsøy				9
+68290	273	Selbu II			10
+68860	257	Trondheim - Voll		9
+71320		Rissa III			8
+71550	241	Ørland III			8
+71780	242	Åfjord II			8
+(Nord-Trøndelag)			
+69100	271	Værnes				8
+69150	270	Kvithamar			8
+69380	293	Meråker - Vardetun		11
+69655	272	Frosta				9
+70150	278	Verdal - Reppe			9
+70850	124	Kjøbli i Snåsa			12
+71000	277	Steinkjer - Søndre Egge		9
+72710		Overhalla - Skogmo		9
+73500	298	Nordli - Holand			18
+73550	291	Gartland			10
+74350	281	Namsskogan			11
+(Nordland)			
+77230	122	Mosjøen Lufthavn		11
+77280	133	Laksfors			11
+77425	132	Majavatn V			17
+78360	135	Seljelia			12
+78800	147	Varntresk			20
+79220	146	Skamdal				12
+79700	148	Storforshei			13
+79764	150	Hjartåsen			14
+80740	114	Reipå				14
+81775		Lønsdal stasjon			26
+82000	158	Setså				14
+82290	152	Bodø VI				14
+83710	143	Drag - Ajluokta			14
+84500	192	Straumsnes			22
+86500	167	Sortland			14
+(Troms)			
+87640	180	Harstad stadion			20
+89350	23	Bardufoss			25
+89940	198	Dividalen II			31
+90450	26	Tromsø				23
+91380	37	Skibotn II			30
+91500	36	Nordnesfjellet			31
+91740	46	Sørkjosen Lufthavn 		30
+92350	45	Nordstraum i Kvænangen		30
+(Finnmark)			
+93301	58	Suolovuopmi - Lulit		31
+93700	47	Kautokeino			31
+93900	199	Sihccajavri			31
+94280	52	Hammerfest Lufthavn		31
+95350	59	Banak				30
+96850	76	Tana bru			31
+97251	65	Karasjok - Markannjarga		31
+97350	57	Cuovddatmohkki			31
+98550	98	Vardø Radio			31
+99460	84	Pasvik - Svanvik		31
+99850	82	Nyrud				31
