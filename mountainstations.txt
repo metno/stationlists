@@ -38,7 +38,7 @@
 01350, 25830, Finsevatn, 1210
 01352, 29400, Sandhaug, 1250
 01356, 55230, Fannaråki, 2062
-01357,25112, Hollekolten, 807
+01357, 25112, Hollekolten, 807
 01359, 25630, Geilo-Oldebråten, 772
 01361, 15890, Grotli, 872
 01362, 15270, Juvvasshøe, 1894
