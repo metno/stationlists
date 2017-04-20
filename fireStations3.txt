@@ -34,7 +34,6 @@
 54710	|Filefjell - Kyrkjestølane	|21
 61630	|Bjorli				|16
 @@Buskerud					 
-19940	|Lier				|1
 20301	|Hønefoss - Høyby		|4
 24710	|Gulsvik II			|5
 24890	|Nesbyen - Todokk		|6
@@ -82,7 +81,6 @@
 40250	|Valle				|4
 40880	|Hovden - Lundane		|24
 @@Vest-Agder					 
-39040	|Kjevik				|1
 41670	|Konsmo - Høyland		|3
 41825	|Lyngdal			|1
 42940	|Sirdal - Sinnes		|13
@@ -152,12 +150,10 @@
 70150	|Verdal - Reppe			|9
 70850	|Kjøbli i Snåsa			|12
 71000	|Steinkjer - Søndre Egge	|9
-72710	|Overhalla - Skogmo		|9
 73500	|Nordli - Holand		|18
 73550	|Gartland			|10
 74350	|Namsskogan			|11
 @@Nordland					 
-77230	|Mosjøen Lufthavn		|11
 77280	|Laksfors			|11
 77425	|Majavatn V			|17
 78360	|Seljelia			|12
