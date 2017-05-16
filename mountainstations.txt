@@ -1,4 +1,4 @@
-00000,  9380, Snøheim, 1475
+00000, 9380, Snøheim, 1475
 00000, 15262, Juvflye-Mimisbrunnr, 1844
 00000, 16271, Høvringen II, 940
 00000, 32220, Lifjell-Øysteinnatten, 1102
