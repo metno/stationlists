@@ -2,7 +2,6 @@
 180	|Trysil vegstasjon		|14
 700	|Drevsjø			|18
 5590	|Kongsvinger		|7
-5660	|Roverud			|7
 6020	|Flisa II			|7
 7420	|Rena - Ørnhaugen		|20
 7950	|Rena Flyplass			|12
@@ -157,7 +156,6 @@
 78360	|Seljelia			|12
 78800	|Varntresk			|20
 79220	|Skamdal			|12
-79700	|Storforshei			|13
 79764	|Hjartåsen			|14
 80740	|Reipå				|14
 81775	|Lønsdal stasjon		|26
@@ -168,7 +166,6 @@
 86500	|Sortland			|14
 @@Troms					 
 87640	|Harstad stadion		|20
-89350	|Bardufoss			|25
 89940	|Dividalen II			|31
 90450	|Tromsø 			|23
 91380	|Skibotn II			|30
