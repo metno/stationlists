@@ -58,7 +58,6 @@
 3290	|Rakkestad			|1
 @@Vestfold
 26990	|Sande - Galleberg		|1
-27315	|Ramnes - Kile Vestre		|1
 27450	|Melsom				|1
 27780	|Tjølling			|1
 @@Telemark			 
