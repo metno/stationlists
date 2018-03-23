@@ -125,7 +125,7 @@
 64510	|Tingvoll			|5
 64760	|Surnadal - Sylte		|5
 64870	|Tågdalen			|13
-@@Sør-Trøndelag					 
+@@Trøndelag					 
 10380	|Røros Lufthavn			|22
 10800	|Sølendet			|27
 63705	|Oppdal - Sæter			|17
@@ -136,17 +136,14 @@
 67560	|Kotsøy				|9
 68290	|Selbu II			|10
 68860	|Trondheim - Voll		|9
-71320	|Rissa III			|8
-71550	|Ørland III			|8
-71780	|Åfjord II			|8
-@@Nord-Trøndelag				 
 69150	|Kvithamar			|8
 69380	|Meråker - Vardetun		|11
 69655	|Frosta				|9
-70150	|Verdal - Reppe			|9
 70850	|Kjøbli i Snåsa			|12
 71000	|Steinkjer - Søndre Egge	|9
-73500	|Nordli - Holand		|18
+71320	|Rissa III			|8
+71550	|Ørland III			|8
+71780	|Åfjord II			|8				 73500	|Nordli - Holand		|18
 73550	|Gartland			|10
 74350	|Namsskogan			|11
 @@Nordland					 
