@@ -1,0 +1,14 @@
+      
+- name: INSTALL FIRESTATIONS TO THE SERVER
+  hosts: all
+  gather_facts: no
+  become: true  
+  become_method: sudo
+
+  tasks:
+    - name: INSTALLING FIRESTATIONS TO THE SERVER
+      copy:
+        src:  "fireStations3.txt"
+        dest: '/etc/firestations.txt
+        mode: 0644
+
