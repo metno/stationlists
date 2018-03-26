@@ -1,8 +1,0 @@
-[all]
-ecflow-mapp-a
-ecflow-mapp-b
-ecflow-juergens
-#ecflow-lisbethb
-
-[all:vars]
-ansible_user=ubuntu
