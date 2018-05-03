@@ -74,7 +74,6 @@
 44640	|Stavanger - Våland		|1
 45350	|Lysebotn			|1
 45530	|Liarvatn			|3
-45870	|Fister - Sigmundstad		|1
 46930	|Vats i Vindafjord		|1
 @@Hordalad			 
 25830	|Finsevatn			|30
