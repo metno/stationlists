@@ -142,7 +142,6 @@
 89940	|Dividalen II			|31
 90450	|Tromsø 			|23
 91380	|Skibotn II			|30
-91500	|Nordnesfjellet			|31
 91740	|Sørkjosen Lufthavn		|30
 92350	|Nordstraum i Kvænangen		|30
 @@Finnmark			  
