@@ -95,7 +95,6 @@
 55770	|Njøs				|1
 55820	|Fjærland - Bremuseet		|1
 56420	|Fureneset			|1
-58070	|Sandane			|1
 58900	|Stryn - Kroken			|4
 @@Møre og Romsdal 				 
 59610	|Fiskåbygd			|1
