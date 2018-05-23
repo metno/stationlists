@@ -3,7 +3,7 @@
 700	|Drevsjø                      |18
 5350    |Nord-Odal                    |7
 5590	|Kongsvinger                  |7
-5660  |Roverud                      |7
+5660    |Roverud                      |7
 6020	|Flisa II                     |7
 7420	|Rena - Ørnhaugen             |20
 7950	|Rena Flyplass                |12
