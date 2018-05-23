@@ -214,10 +214,10 @@
 86520   |Sortland - Kleiva            |14
 @@Troms
 87640	|Harstad stadion              |20
-89350 |Bardufoss                    |22
+89350   |Bardufoss                    |22
 89940	|Dividalen II                 |31
-89980 |Tamokdalen                   |31
-90100 |Malangen - Pålfinnmoen       |25
+89980   |Tamokdalen                   |31
+90100   |Malangen - Pålfinnmoen       |25
 90450	|Tromsø                       |23
 91180 |Lenangsstraumen              |24
 91380	|Skibotn II                   |30
