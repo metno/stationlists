@@ -18,16 +18,16 @@
 9310	|Hjerkinn II                  |31
 11500	|Østre Toten - Apelsvoll      |10
 12680	|Lillehammer - Sætherengen    |9
-13030 |Gausdal - Follebu            |12
+13030   |Gausdal - Follebu            |12
 13150	|Fåvang                       |10
 13420	|Venabu                       |20
 13655	|Skåbu                        |20
 14200	|Leirflaten                   |16
 15730	|Bråtå - Slettom              |17
 15890	|Grotli III                   |20
-16040 |Otta - Skansen               |12
+16040   |Otta - Skansen               |12
 16271	|Høvringen II                 |30
-16400 |Dovre - Lannem               |16
+16400   |Dovre - Lannem               |16
 16560	|Dombås - Nordigard           |17
 16610	|Fokstugu                     |30
 20540 |Gran                         |6
