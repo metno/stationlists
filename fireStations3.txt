@@ -170,11 +170,11 @@
 67280	|Soknedal                     |12
 67560	|Kotsøy                       |9
 68050   |Lade                         |9
-68120 |Saupstad                     |9
-68125 |Sverresborg                  |9
+68120   |Saupstad                     |9
+68125   |Sverresborg                  |9
 68290	|Selbu II                     |10
 68860	|Trondheim - Voll             |9
-69100 |Værnes                       |8
+69100   |Værnes                       |8
 69150	|Kvithamar                    |8
 69380	|Meråker - Vardetun           |11
 69655 |Frosta                       |9
