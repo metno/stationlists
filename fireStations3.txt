@@ -43,8 +43,8 @@
 24710   |Gulsvik II                   |4
 24890	|Nesbyen - Todokk             |6
 25630	|Geilo - Oldebråten           |20
-26350 |Sigdal - Nedre Eggedal       |4
-26820 |Hokksund                     |2
+26350   |Sigdal - Nedre Eggedal       |4
+26820   |Hokksund                     |2
 26900	|Drammen - Berskog            |1
 27010	|Konnerud                     |6
 28380	|Kongsberg Brannstasjon       |5
@@ -52,7 +52,7 @@
 @@Oslo
 18700	|Oslo - Blindern              |3
 18815	|Oslo - Bygdøy                |2
-18950 |Tryvannshøgda                |13
+18950   |Tryvannshøgda                |13
 @@Akershus
 2650	|Aurskog II                   |2
 4260  |Skedsmo - Hellerud           |3
