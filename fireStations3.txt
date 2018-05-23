@@ -30,8 +30,8 @@
 16400   |Dovre - Lannem               |16
 16560	|Dombås - Nordigard           |17
 16610	|Fokstugu                     |30
-20540 |Gran                         |6
-21680 |Vest - Torpa II              |15
+20540   |Gran                         |6
+21680   |Vest - Torpa II              |15
 23500	|Løken i Volbu                |15
 23550	|Beitostølen II               |21
 54710	|Filefjell - Kyrkjestølane    |21
