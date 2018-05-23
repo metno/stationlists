@@ -155,9 +155,9 @@
 61420	|Marstein                     |4
 62290   |Molde - Nøisomhed            |1
 63420	|Sunndalsøra III              |5
-64510 |Tingvoll                     |5
-64700 |Innerdalen                   |13
-64760 |Surnadal - Sylte             |3
+64510   |Tingvoll                     |5
+64700   |Innerdalen                   |13
+64760   |Surnadal - Sylte             |3
 64870	|Tågdalen                     |13
 @@Trøndelag
 10380	|Røros Lufthavn               |22
