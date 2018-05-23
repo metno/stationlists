@@ -132,16 +132,16 @@
 @@Sogn og Fjordane
 52860	|Takle                        |1
 53101	|Vangsnes                     |1
-53480 |Klevavatnet                  |24
+53480   |Klevavatnet                  |24
 54110	|Lærdal IV                    |1
-55420 |Jostedalen - Breheimsenteret |2
+55420   |Jostedalen - Breheimsenteret |2
 55770	|Njøs                         |1
 55820	|Fjærland - Bremuseet         |1
-55928 |Balestrand - Bale            |1
+55928   |Balestrand - Bale            |1
 56420	|Fureneset                    |1
-56960 |Haukedal                     |2
+56960   |Haukedal                     |2
 58900	|Stryn - Kroken               |4
-59450 |Stadlandet                   |1
+59450   |Stadlandet                   |1
 @@Møre og Romsdal
 59610	|Fiskåbygd                    |1
 59695 |Ørsta - Eitrefjell           |18
