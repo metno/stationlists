@@ -37,10 +37,10 @@
 54710	|Filefjell - Kyrkjestølane    |21
 61630	|Bjorli                       |16
 @@Buskerud
-19940 |Lier                         |2
-20280 |Hønefoss - Hverven           |4
+19940   |Lier                         |2
+20280   |Hønefoss - Hverven           |4
 20301	|Hønefoss - Høyby             |4
-24710 |Gulsvik II                   |4
+24710   |Gulsvik II                   |4
 24890	|Nesbyen - Todokk             |6
 25630	|Geilo - Oldebråten           |20
 26350 |Sigdal - Nedre Eggedal       |4
