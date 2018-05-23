@@ -189,15 +189,15 @@
 73550	|Gartland                     |10
 74350	|Namsskogan                   |11
 @@Nordland
-77230 |Mosjøen lufthavn             |11
+77230   |Mosjøen lufthavn             |11
 77280	|Laksfors                     |11
 77425	|Majavatn V                   |17
 78360	|Seljelia                     |12
 78800	|Varntresk                    |20
 79220	|Skamdal                      |12
-79700 |Storforshei                  |13
+79700   |Storforshei                  |13
 79764	|Hjartåsen                    |14
-80200 |Lurøy                        |13
+80200   |Lurøy                        |13
 80740	|Reipå                        |14
 81775	|Lønsdal stasjon              |26
 82000	|Setså                        |14
