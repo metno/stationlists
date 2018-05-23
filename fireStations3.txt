@@ -10,7 +10,7 @@
 8880    |Alvdal                       |16
 9160	|Folldal - Fredheim           |18
 9580	|Tynset - Hansmoen            |16
-12180 |Ilseng                       |8
+12180   |Ilseng                       |8
 12290	|Hamar II                     |7
 12320	|Hamar - Stavsberg            |9
 12550	|Kise på Hedmark              |7
