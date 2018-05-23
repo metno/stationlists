@@ -219,13 +219,13 @@
 89980   |Tamokdalen                   |31
 90100   |Malangen - Pålfinnmoen       |25
 90450	|Tromsø                       |23
-91180 |Lenangsstraumen              |24
+91180   |Lenangsstraumen              |24
 91380	|Skibotn II                   |30
 91740	|Sørkjosen Lufthavn           |30
 92350	|Nordstraum i Kvænangen       |30
 @@Finnmark
-92650 |Nuvsvåg                      |31
-93140 |Alta lufthavn                |31
+92650   |Nuvsvåg                      |31
+93140   |Alta lufthavn                |31
 93301	|Suolovuopmi - Lulit          |31
 93700	|Kautokeino                   |31
 93900	|Sihccajavri                  |31
