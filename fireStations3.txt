@@ -1,158 +1,239 @@
-@@Hedmark			
-180	|Trysil vegstasjon		|14
-700	|Drevsjø			|18
-5590	|Kongsvinger	          	|7
-6020	|Flisa II			|7
-7420	|Rena - Ørnhaugen		|20
-7950	|Rena Flyplass			|12
-9160	|Folldal - Fredheim		|18
-9580	|Tynset - Hansmoen		|16
-12290	|Hamar II			|7
-12320	|Hamar - Stavsberg		|9
-12550	|Kise på Hedmark		|7
-@@Oppland			 
-9310	|Hjerkinn II			|31
-11500	|Østre Toten - Apelsvoll	|10
-12680	|Lillehammer - Sætherengen	|9
-13150	|Fåvang				|10
-13420	|Venabu				|20
-13655	|Skåbu				|20
-14200	|Leirflaten			|16
-15730	|Bråtå - Slettom		|17
-15890	|Grotli III			|20
-16271	|Høvringen			|30
-16560	|Dombås - Nordigard		|17
-16610	|Fokstugu			|30
-23160	|Åbjørsbråten			|16
-23500	|Løken i Volbu			|15
-23550	|Beitostølen II			|21
-54710	|Filefjell - Kyrkjestølane	|21
-61630	|Bjorli				|16
-@@Buskerud					 
-20301	|Hønefoss - Høyby		|4
-24890	|Nesbyen - Todokk		|6
-25630	|Geilo - Oldebråten		|20
-26900	|Drammen - Berskog		|1
-27010	|Konnerud			|6
-28380	|Kongsberg Brannstasjon		|5
-28922	|Veggli II			|8
-@@Oslo					 
-18700	|Oslo - Blindern		|3
-18815	|Oslo - Bygdøy			|2
-@@Akershus			 
-2650	|Aurskog II			|2
-4460	|Hakadal Jernbanestasjon	|5
-4780	|Gardermoen			|6
-4920	|Årnes				|5
-17850	|Ås				|1
-19710	|Asker				|3
+@@Hedmark
+180	  |Trysil vegstasjon            |14
+700	  |Drevsjø                      |18
+5350  |Nord-Odal                    |7
+5590	|Kongsvinger                  |7
+5660  |Roverud                      |7
+6020	|Flisa II                     |7
+7420	|Rena - Ørnhaugen             |20
+7950	|Rena Flyplass                |12
+8880  |Alvdal                       |16
+9160	|Folldal - Fredheim           |18
+9580	|Tynset - Hansmoen            |16
+12180 |Ilseng                       |8
+12290	|Hamar II                     |7
+12320	|Hamar - Stavsberg            |9
+12550	|Kise på Hedmark              |7
+@@Oppland
+9310	|Hjerkinn II                  |31
+11500	|Østre Toten - Apelsvoll      |10
+12680	|Lillehammer - Sætherengen    |9
+13030 |Gausdal - Follebu            |12
+13150	|Fåvang                       |10
+13420	|Venabu                       |20
+13655	|Skåbu                        |20
+14200	|Leirflaten                   |16
+15730	|Bråtå - Slettom              |17
+15890	|Grotli III                   |20
+16040 |Otta - Skansen               |12
+16271	|Høvringen II                 |30
+16400 |Dovre - Lannem               |16
+16560	|Dombås - Nordigard           |17
+16610	|Fokstugu                     |30
+20540 |Gran                         |6
+21680 |Vest - Torpa II              |15
+23500	|Løken i Volbu                |15
+23550	|Beitostølen II               |21
+54710	|Filefjell - Kyrkjestølane    |21
+61630	|Bjorli                       |16
+@@Buskerud
+19940 |Lier                         |2
+20280 |Hønefoss - Hverven           |4
+20301	|Hønefoss - Høyby             |4
+24710 |Gulsvik II                   |4
+24890	|Nesbyen - Todokk             |6
+25630	|Geilo - Oldebråten           |20
+26350 |Sigdal - Nedre Eggedal       |4
+26820 |Hokksund                     |2
+26900	|Drammen - Berskog            |1
+27010	|Konnerud                     |6
+28380	|Kongsberg Brannstasjon       |5
+28922	|Veggli II                    |8
+@@Oslo
+18700	|Oslo - Blindern              |3
+18815	|Oslo - Bygdøy                |2
+18950 |Tryvannshøgda                |13
+@@Akershus
+2650	|Aurskog II                   |2
+4260  |Skedsmo - Hellerud           |3
+4460	|Hakadal Jernbanestasjon      |5
+4920	|Årnes                        |5
+17850	|Ås                           |1
+19710	|Asker                        |3
 @@Østfold
-3190	|Sarpsborg			|1
+3190	|Sarpsborg                    |1
+3290  |Rakkestad                    |1
+3370  |Øsaker                       |1
+17050 |Råde - Tomb                  |1
+17150 |Rygge                        |1
+17380 |Rygge - Huggenes             |1
 @@Vestfold
-26990	|Sande - Galleberg		|1
-27450	|Melsom				|1
-@@Telemark			 
-30255	|Porsgrunn - Ås			|2
-31620	|Møsstrand II			|26
-32060	|Gvarv - Nes			|2
-32890	|Høydalsmo II			|13
-37230	|Tveitsund			|4
-@@Aust-Agder			 
-35210	|Gjerstad Jernbanestasjon	|1
-36560	|Nelaug				|2
-38140	|Landvik			|1
-38730	|Hynnekleiv			|2
-39750	|Byglandsfjord - Neset		|3
-40250	|Valle				|4
-40880	|Hovden - Lundane		|24
-@@Vest-Agder					 
-41670	|Konsmo - Høyland		|3
-42940	|Sirdal - Sinnes		|13
-@@Rogaland			 
-43010	|Eik - Hove			|2
-44300	|Særheim			|1
-44640	|Stavanger - Våland		|1
-45350	|Lysebotn			|1
-45530	|Liarvatn			|3
-46930	|Vats i Vindafjord		|1
-@@Hordalad			 
-25830	|Finsevatn			|30
-46430	|Røldalsfjellet			|28
-49490	|Ullensvang			|1
-49910	|Ulvik - Hjeltnes		|1
-50070	|Kvamsøy			|1
-50310	|Kvamskogen - Jonshøgdi		|3
-50540	|Bergen - Florida		|1
-51010	|Fossmark			|1
-51440	|Evanger			|1
-51530	|Vossevangen			|1
-51800	|Mjølfjell			|18
-51990	|Myrkdalen - Vetlebotn		|18
-@@Sogn og Fjordane				 
-52860	|Takle				|1
-53101	|Vangsnes			|1
-54110	|Lærdal IV			|1
-55770	|Njøs				|1
-55820	|Fjærland - Bremuseet		|1
-56420	|Fureneset			|1
-58900	|Stryn - Kroken			|4
-@@Møre og Romsdal 				 
-59610	|Fiskåbygd			|1
-60500	|Tafjord			|3
-60990	|Vigra				|1
-61410	|Mannen				|31
-61420	|Marstein			|4
-63420	|Sunndalsøra III		|5
-64870	|Tågdalen			|13
-@@Trøndelag					 
-10380	|Røros Lufthavn			|22
-10800	|Sølendet			|27
-63705	|Oppdal - Sæter			|17
-65451	|Hitra - Sandstad II		|8
-66150	|Orkdal - Thamshamn		|8
-67280	|Soknedal			|12
-67560	|Kotsøy				|9
-68290	|Selbu II			|10
-68860	|Trondheim - Voll		|9
-69150	|Kvithamar			|8
-69380	|Meråker - Vardetun		|11
-70850	|Kjøbli i Snåsa			|12
-71000	|Steinkjer - Søndre Egge	|9
-71550	|Ørland III			|8
-71780	|Åfjord II			|8
-73500	|Nordli - Holand		|18
-73550	|Gartland			|10
-74350	|Namsskogan			|11
-@@Nordland					 
-77280	|Laksfors			|11
-77425	|Majavatn V			|17
-78360	|Seljelia			|12
-78800	|Varntresk			|20
-79220	|Skamdal			|12
-79764	|Hjartåsen			|14
-80740	|Reipå				|14
-81775	|Lønsdal stasjon		|26
-82000	|Setså				|14
-82290	|Bodø VI			|14
-83710	|Drag - Ajluokta		|14
-84500	|Straumsnes			|22
-86500	|Sortland			|14
-@@Troms					 
-87640	|Harstad stadion		|20
-89940	|Dividalen II			|31
-90450	|Tromsø 			|23
-91380	|Skibotn II			|30
-91740	|Sørkjosen Lufthavn		|30
-92350	|Nordstraum i Kvænangen		|30
-@@Finnmark			  
-93301	|Suolovuopmi - Lulit		|31
-93700	|Kautokeino			|31
-93900	|Sihccajavri			|31
-94280	|Hammerfest Lufthavn		|31
-96850	|Tana bru			|31
-97251	|Karasjok - Markannjarga	|31
-97350	|Cuovddatmohkki			|31
-98550	|Vardø Radio			|31
-99460	|Pasvik - Svanvik		|31
-99850	|Nyrud				|31
+26770 |Hof - Eikenes                |3
+26950 |Svelvik                      |1
+26990	|Sande - Galleberg            |1
+26996 |Sande - Lauvkollmyr          |9
+27315 |Ramnes - Kile Vestre         |1
+27450	|Melsom                       |1
+27780 |Tjølling                     |1
+@@Telemark
+30255	|Porsgrunn - Ås               |2
+30330 |Gjerpen - Århus              |1
+31400 |Fyriegg                      |27
+31620	|Møsstrand II                 |26
+32060	|Gvarv - Nes                  |2
+32890	|Høydalsmo II                 |13
+37230	|Tveitsund                    |4
+@@Aust-Agder
+35210	|Gjerstad Jernbanestasjon     |1
+36560	|Nelaug                       |2
+38140	|Landvik                      |1
+38730	|Hynnekleiv                   |2
+39750	|Byglandsfjord - Neset        |3
+40250	|Valle                        |4
+40880	|Hovden - Lundane             |24
+@@Vest-Agder
+39040 |Kjevik                       |1
+41090 |Mandal                       |1
+41175 |Laudal - Kleiven             |6
+41480 |Åseral                       |6
+42940	|Sirdal - Sinnes              |13
+@@Rogaland
+43010	|Eik - Hove                   |2
+44300	|Særheim                      |1
+44560 |Sola                         |1
+44640	|Stavanger - Våland           |1
+45350	|Lysebotn                     |1
+45530	|Liarvatn                     |3
+45770 |Hjelmeland                   |1
+46220 |Gullingen skisenter          |15
+46610 |Sauda                        |1
+46930	|Vats i Vindafjord            |1
+@@Hordalad
+25830	|Finsevatn                    |30
+46430	|Røldalsfjellet               |28
+47498 |Etne II                      |1
+49085 |Folgefonna skisenter         |30
+49420 |Skjeggedal                   |11
+49490	|Ullensvang                   |1
+50070	|Kvamsøy                      |1
+50110 |Kvam - Aksneset              |1
+50310	|Kvamskogen - Jonshøgdi       |3
+50480 |Bergen - Sandsli             |1
+50500 |Flesland                     |1
+50540	|Bergen - Florida             |1
+51010	|Fossmark                     |1
+51440	|Evanger                      |1
+51470 |Bulken                       |3
+51530	|Vossevangen                  |1
+51800	|Mjølfjell                    |18
+51990	|Myrkdalen - Vetlebotn        |18
+52310 |Modalen III                  |1
+53530 |Midtstova                    |30
+@@Sogn og Fjordane
+52860	|Takle                        |1
+53101	|Vangsnes                     |1
+53480 |Klevavatnet                  |24
+54110	|Lærdal IV                    |1
+55420 |Jostedalen - Breheimsenteret |2
+55770	|Njøs                         |1
+55820	|Fjærland - Bremuseet         |1
+55928 |Balestrand - Bale            |1
+56420	|Fureneset                    |1
+56960 |Haukedal                     |2
+58900	|Stryn - Kroken               |4
+59450 |Stadlandet                   |1
+@@Møre og Romsdal
+59610	|Fiskåbygd                    |1
+59695 |Ørsta - Eitrefjell           |18
+60500	|Tafjord                      |3
+60650 |Linge                        |3
+60800 |Ørskog                       |1
+60890 |Brusdalsvatn II              |1
+60945 |Ålesung IV                   |1
+60990	|Vigra                        |1
+61410	|Mannen                       |31
+61420	|Marstein                     |4
+62290 |Molde - Nøisomhed            |1
+63420	|Sunndalsøra III              |5
+64510 |Tingvoll                     |5
+64700 |Innerdalen                   |13
+64760 |Surnadal - Sylte             |3
+64870	|Tågdalen                     |13
+@@Trøndelag
+10380	|Røros Lufthavn               |22
+10800	|Sølendet                     |27
+63705	|Oppdal - Sæter               |17
+63820 |Drivdalen                    |18
+65451	|Hitra - Sandstad II          |8
+66150	|Orkdal - Thamshamn           |8
+67140 |Skjetlein                    |9
+67280	|Soknedal                     |12
+67560	|Kotsøy                       |9
+68050 |Lade                         |9
+68120 |Saupstad                     |9
+68125 |Sverresborg                  |9
+68290	|Selbu II                     |10
+68860	|Trondheim - Voll             |9
+69100 |Værnes                       |8
+69150	|Kvithamar                    |8
+69380	|Meråker - Vardetun           |11
+69655 |Frosta                       |9
+70150 |Verdal - Reppe               |9
+70680 |Mære III                     |9
+70850	|Snåsa - Kjevlia              |12
+71000	|Steinkjer - Søndre Egge      |9
+71320 |Rissa III                    |8
+71550	|Ørland III                   |8
+71780	|Åfjord II                    |8
+73500	|Nordli - Holand              |18
+73550	|Gartland                     |10
+74350	|Namsskogan                   |11
+@@Nordland
+77230 |Mosjøen lufthavn             |11
+77280	|Laksfors                     |11
+77425	|Majavatn V                   |17
+78360	|Seljelia                     |12
+78800	|Varntresk                    |20
+79220	|Skamdal                      |12
+79700 |Storforshei                  |13
+79764	|Hjartåsen                    |14
+80200 |Lurøy                        |13
+80740	|Reipå                        |14
+81775	|Lønsdal stasjon              |26
+82000	|Setså                        |14
+82110 |Valnesfjord                  |14
+82290	|Bodø VI                      |14
+83710	|Drag - Ajluokta              |14
+84210 |Losistua                     |31
+84500	|Straumsnes                   |22
+84880 |Katterat                     |31
+84900 |Bjørnfjell                   |31
+85080 |Kanstadbotn                  |14
+85560 |Leknes lufthavn              |14
+86500	|Sortland                     |14
+86520 |Sortland - Kleiva            |14
+@@Troms
+87640	|Harstad stadion              |20
+89350 |Bardufoss                    |22
+89940	|Dividalen II                 |31
+89980 |Tamokdalen                   |31
+90100 |Malangen - Pålfinnmoen       |25
+90450	|Tromsø                       |23
+91180 |Lenangsstraumen              |24
+91380	|Skibotn II                   |30
+91740	|Sørkjosen Lufthavn           |30
+92350	|Nordstraum i Kvænangen       |30
+@@Finnmark
+92650 |Nuvsvåg                      |31
+93140 |Alta lufthavn                |31
+93301	|Suolovuopmi - Lulit          |31
+93700	|Kautokeino                   |31
+93900	|Sihccajavri                  |31
+94280	|Hammerfest Lufthavn          |31
+96850	|Tana bru                     |31
+97251	|Karasjok - Markannjarga      |31
+97350	|Cuovddatmohkki               |31
+98550	|Vardø Radio                  |31
+99460	|Pasvik - Svanvik             |31
+99850	|Nyrud                        |31
 
