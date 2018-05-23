@@ -144,16 +144,16 @@
 59450   |Stadlandet                   |1
 @@Møre og Romsdal
 59610	|Fiskåbygd                    |1
-59695 |Ørsta - Eitrefjell           |18
+59695   |Ørsta - Eitrefjell           |18
 60500	|Tafjord                      |3
-60650 |Linge                        |3
-60800 |Ørskog                       |1
-60890 |Brusdalsvatn II              |1
-60945 |Ålesung IV                   |1
+60650   |Linge                        |3
+60800   |Ørskog                       |1
+60890   |Brusdalsvatn II              |1
+60945   |Ålesung IV                   |1
 60990	|Vigra                        |1
 61410	|Mannen                       |31
 61420	|Marstein                     |4
-62290 |Molde - Nøisomhed            |1
+62290   |Molde - Nøisomhed            |1
 63420	|Sunndalsøra III              |5
 64510 |Tingvoll                     |5
 64700 |Innerdalen                   |13
