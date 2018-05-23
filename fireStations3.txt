@@ -163,13 +163,13 @@
 10380	|Røros Lufthavn               |22
 10800	|Sølendet                     |27
 63705	|Oppdal - Sæter               |17
-63820 |Drivdalen                    |18
+63820   |Drivdalen                    |18
 65451	|Hitra - Sandstad II          |8
 66150	|Orkdal - Thamshamn           |8
-67140 |Skjetlein                    |9
+67140   |Skjetlein                    |9
 67280	|Soknedal                     |12
 67560	|Kotsøy                       |9
-68050 |Lade                         |9
+68050   |Lade                         |9
 68120 |Saupstad                     |9
 68125 |Sverresborg                  |9
 68290	|Selbu II                     |10
