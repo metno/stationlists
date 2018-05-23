@@ -55,18 +55,18 @@
 18950   |Tryvannshøgda                |13
 @@Akershus
 2650	|Aurskog II                   |2
-4260  |Skedsmo - Hellerud           |3
+4260    |Skedsmo - Hellerud           |3
 4460	|Hakadal Jernbanestasjon      |5
 4920	|Årnes                        |5
 17850	|Ås                           |1
 19710	|Asker                        |3
 @@Østfold
-3190	|Sarpsborg                    |1
-3290  |Rakkestad                    |1
-3370  |Øsaker                       |1
-17050 |Råde - Tomb                  |1
-17150 |Rygge                        |1
-17380 |Rygge - Huggenes             |1
+3190	  |Sarpsborg                    |1
+3290    |Rakkestad                    |1
+3370    |Øsaker                       |1
+17050   |Råde - Tomb                  |1
+17150   |Rygge                        |1
+17380   |Rygge - Huggenes             |1
 @@Vestfold
 26770 |Hof - Eikenes                |3
 26950 |Svelvik                      |1
