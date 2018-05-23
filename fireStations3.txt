@@ -100,13 +100,13 @@
 @@Rogaland
 43010	|Eik - Hove                   |2
 44300	|Særheim                      |1
-44560 |Sola                         |1
+44560   |Sola                         |1
 44640	|Stavanger - Våland           |1
 45350	|Lysebotn                     |1
 45530	|Liarvatn                     |3
-45770 |Hjelmeland                   |1
-46220 |Gullingen skisenter          |15
-46610 |Sauda                        |1
+45770   |Hjelmeland                   |1
+46220   |Gullingen skisenter          |15
+46610   |Sauda                        |1
 46930	|Vats i Vindafjord            |1
 @@Hordalad
 25830	|Finsevatn                    |30
