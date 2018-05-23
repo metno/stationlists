@@ -61,7 +61,7 @@
 17850	|Ås                           |1
 19710	|Asker                        |3
 @@Østfold
-3190	 |Sarpsborg                    |1
+3190	|Sarpsborg                    |1
 3290    |Rakkestad                    |1
 3370    |Øsaker                       |1
 17050   |Råde - Tomb                  |1
@@ -73,7 +73,7 @@
 26990	|Sande - Galleberg            |1
 26996   |Sande - Lauvkollmyr          |9
 27315   |Ramnes - Kile Vestre         |1
-27450	  |Melsom                       |1
+27450	|Melsom                       |1
 27780   |Tjølling                     |1
 @@Telemark
 30255	|Porsgrunn - Ås               |2
