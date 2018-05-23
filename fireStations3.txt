@@ -1,6 +1,6 @@
 @@Hedmark
-180   |Trysil vegstasjon            |14
-700   |Drevsjø                      |18
+180     |Trysil vegstasjon            |14
+700     |Drevsjø                      |18
 5350    |Nord-Odal                    |7
 5590	|Kongsvinger                  |7
 5660    |Roverud                      |7
