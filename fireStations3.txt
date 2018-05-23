@@ -201,17 +201,17 @@
 80740	|Reipå                        |14
 81775	|Lønsdal stasjon              |26
 82000	|Setså                        |14
-82110 |Valnesfjord                  |14
+82110   |Valnesfjord                  |14
 82290	|Bodø VI                      |14
 83710	|Drag - Ajluokta              |14
-84210 |Losistua                     |31
+84210   |Losistua                     |31
 84500	|Straumsnes                   |22
-84880 |Katterat                     |31
-84900 |Bjørnfjell                   |31
-85080 |Kanstadbotn                  |14
-85560 |Leknes lufthavn              |14
+84880   |Katterat                     |31
+84900   |Bjørnfjell                   |31
+85080   |Kanstadbotn                  |14
+85560   |Leknes lufthavn              |14
 86500	|Sortland                     |14
-86520 |Sortland - Kleiva            |14
+86520   |Sortland - Kleiva            |14
 @@Troms
 87640	|Harstad stadion              |20
 89350 |Bardufoss                    |22
