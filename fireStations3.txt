@@ -77,7 +77,6 @@
 27780   |Tjølling                     |1
 @@Telemark
 30255	|Porsgrunn - Ås               |2
-30330   |Gjerpen - Århus              |1
 31400   |Fyriegg                      |27
 31620	|Møsstrand II                 |26
 32060	|Gvarv - Nes                  |2
@@ -100,7 +99,6 @@
 @@Rogaland
 43010	|Eik - Hove                   |2
 44300	|Særheim                      |1
-44560   |Sola                         |1
 44640	|Stavanger - Våland           |1
 45350	|Lysebotn                     |1
 45530	|Liarvatn                     |3
