@@ -7,6 +7,7 @@
 00000, 51990, Myrkdalen-Vetlebotn, 700
 00000, 57790, Myklebustfjellet, 715
 00000, 60190, Roaldshornet, 1050
+00000, 77490, Kappfjellet, 940
 00000, 80707, Glomfjord-Tverrfjellet, 930
 00000, 81775, Lønsdal stasjon, 520
 00000, 84630, Narvik-Fagernesfjellet, 1000
@@ -14,6 +15,7 @@
 00000, 89985, Sjufjellet, 1020
 00000, 91120, Lyngen-Gjerdelvdalen, 670
 00000, 91729, Arnøya-Trolltinden, 850
+00000, 91530, Gamanjunni, 1237
 00000, 92860, Øksfjord-Deallja, 560
 01018, 87120, Andøya-Trolltinden, 436
 01030, 89010, Kistefjell, 982
