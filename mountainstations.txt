@@ -1,3 +1,7 @@
+00000, 59695, Ørsta-Eitrefjell, 690
+00000, 57340, Jølster-Kvamsfjellet, 980
+00000, 49085, Folgefonna skisenter, 1212
+00000, 62980, Gjemnes-Reinsfjellet, 990
 00000, 9380, Snøheim, 1475
 00000, 15262, Juvflye-Mimisbrunnr, 1844
 00000, 16271, Høvringen II, 940
