@@ -1,28 +1,41 @@
-00000, 25541, Bakko i Hol II, 1020
-00000, 59695, Ørsta-Eitrefjell, 690
-00000, 57340, Jølster-Kvamsfjellet, 980
-00000, 49085, Folgefonna skisenter, 1212
-00000, 62980, Gjemnes-Reinsfjellet, 990
 00000, 9380, Snøheim, 1475
 00000, 15262, Juvflye-Mimisbrunnr, 1844
 00000, 16271, Høvringen II, 940
+00000, 25115, Hemsedal skisenter, 1344
+00000, 25541, Bakko i Hol, 1020
+00000, 31400, Fyriegg, 1008
 00000, 32220, Lifjell-Øysteinnatten, 1102
+00000, 33300, Honnegrasnuten, 1340
+00000, 46220, Gullingen skisenter, 639
 00000, 46432, Røldalsfjellet-Elvershei, 1370
+00000, 49085, Folgefonna skisenter, 1212
 00000, 49087, Folgefonna Skisenter Topp, 1390
 00000, 51990, Myrkdalen-Vetlebotn, 700
+00000, 55425, Spørteggbu, 1585
+00000, 57340, Jølster-Kvamsfjellet, 980
 00000, 57790, Myklebustfjellet, 715
+00000, 58860, Trolledalsegga, 1020
+00000, 59695, Ørsta-Eitrefjell, 690
 00000, 60190, Roaldshornet, 1050
 00000, 60240, Åkerneset, 900
+00000, 62980, Gjemnes-Reinsfjellet, 990
+00000, 63630, Trollheimen-Storhornet, 1550
 00000, 77490, Kappfjellet, 940
+00000, 80705, Glomfjord-Skihytta, 520
 00000, 80707, Glomfjord-Tverrfjellet, 930
+00000, 80880, Sandhornøya-Våtvikfjellet, 600
 00000, 81775, Lønsdal stasjon, 520
 00000, 84630, Narvik-Fagernesfjellet, 1000
+00000, 84900, Bjørnfjell, 512
 00000, 87000, Ånstadblåheia, 500
+00000, 87772, Sætertinden ved Tjeldsundet, 1095
 00000, 89985, Sjufjellet, 1020
+00000, 90110, Mortenhalsskolten, 740
 00000, 91120, Lyngen-Gjerdelvdalen, 670
-00000, 91729, Arnøya-Trolltinden, 850
 00000, 91530, Gamanjunni, 1237
+00000, 91729, Arnøya-Trolltinden, 850
 00000, 92860, Øksfjord-Deallja, 560
+00000, 97700, Iskuras, 643
 01018, 87120, Andøya-Trolltinden, 436
 01030, 89010, Kistefjell, 982
 01035, 91130, Lyngen-Gjerdvassbu, 710
