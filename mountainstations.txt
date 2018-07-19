@@ -1,3 +1,4 @@
+00000, 25541, Bakko i Hol II, 1020
 00000, 59695, Ørsta-Eitrefjell, 690
 00000, 57340, Jølster-Kvamsfjellet, 980
 00000, 49085, Folgefonna skisenter, 1212
@@ -11,6 +12,7 @@
 00000, 51990, Myrkdalen-Vetlebotn, 700
 00000, 57790, Myklebustfjellet, 715
 00000, 60190, Roaldshornet, 1050
+00000, 60240, Åkerneset, 900
 00000, 77490, Kappfjellet, 940
 00000, 80707, Glomfjord-Tverrfjellet, 930
 00000, 81775, Lønsdal stasjon, 520
@@ -29,12 +31,11 @@
 01058, 93301, Suolovuopmi Lulit, 381
 01064, 97710, Iskoras II, 591
 01091, 84210, Losistua, 740
-01199, 93900, Sihcajavri, 382
+01199, 93900, Sihccajavri, 382
 01220, 61410, Mannen, 1294
 01229, 60810, Lebergsfjellet, 625
 01238, 16610, Fokstugu, 973
 01239, 9310, Hjerkinn, 1012
-01287, 10800, Sølendet, 760
 01287, 10800, Sølendet, 760
 01288, 10380, Røros, 625
 01340, 49800, Fet i Eidfjord, 736
@@ -43,7 +44,6 @@
 01346, 53530, Midtstova, 1162
 01350, 25830, Finsevatn, 1210
 01352, 29400, Sandhaug, 1250
-01356, 55230, Fannaråki, 2062
 01357, 25112, Hollekolten, 807
 01359, 25630, Geilo-Oldebråten, 772
 01361, 15890, Grotli, 872
@@ -56,6 +56,7 @@
 01370, 13655, Skåbu, 928
 01375, 13160, Kvitfjell, 1030
 01380, 13420, Venabu, 930
+01388, 07420, Ørnhaugen, 872
 01428, 46430, Røldalsfjellet, 1010
 01433, 46510, Midtlæger, 1079
 01434, 33890, Vågsli, 821
@@ -64,5 +65,5 @@
 01441, 40880, Hovden-Lundane, 841
 01450, 31620, Møsstrand, 977
 01461, 31970, Gaustatoppen, 1804
-01515, 60240, Åkerneset, 900
-01608, 25541, Bakko i Hol II, 1020
+
+
