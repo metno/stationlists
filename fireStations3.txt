@@ -65,7 +65,6 @@
 3290    |Rakkestad                    |1
 3370    |Øsaker                       |1
 17050   |Råde - Tomb                  |1
-17150   |Rygge                        |1
 17380   |Rygge - Huggenes             |1
 @@Vestfold
 26770   |Hof - Eikenes                |3
@@ -76,7 +75,6 @@
 27450	|Melsom                       |1
 27780   |Tjølling                     |1
 @@Telemark
-30255	|Porsgrunn - Ås               |2
 31400   |Fyriegg                      |27
 31620	|Møsstrand II                 |26
 32060	|Gvarv - Nes                  |2
@@ -103,7 +101,6 @@
 45350	|Lysebotn                     |1
 45530	|Liarvatn                     |3
 45770   |Hjelmeland                   |1
-46220   |Gullingen skisenter          |15
 46610   |Sauda                        |1
 46930	|Vats i Vindafjord            |1
 @@Hordalad
@@ -124,7 +121,6 @@
 51470   |Bulken                       |3
 51530	|Vossevangen                  |1
 51800	|Mjølfjell                    |18
-51990	|Myrkdalen - Vetlebotn        |18
 52310   |Modalen III                  |1
 53530   |Midtstova                    |30
 @@Sogn og Fjordane
@@ -222,7 +218,6 @@
 91740	|Sørkjosen Lufthavn           |30
 92350	|Nordstraum i Kvænangen       |30
 @@Finnmark
-92650   |Nuvsvåg                      |31
 93140   |Alta lufthavn                |31
 93301	|Suolovuopmi - Lulit          |31
 93700	|Kautokeino                   |31
