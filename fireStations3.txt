@@ -61,7 +61,6 @@
 17850	|Ås                           |1
 19710	|Asker                        |3
 @@Østfold
-3190	|Sarpsborg                    |1
 3290    |Rakkestad                    |1
 3370    |Øsaker                       |1
 17050   |Råde - Tomb                  |1
