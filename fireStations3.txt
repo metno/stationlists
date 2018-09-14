@@ -227,5 +227,5 @@
 97350	|Cuovddatmohkki               |31
 98550	|Vardø Radio                  |31
 99460	|Pasvik - Svanvik             |31
-99850	|Nyrud                        |31
+99540	|Nyrud                        |31
 
