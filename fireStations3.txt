@@ -66,7 +66,6 @@
 17050   |Råde - Tomb                  |1
 17380   |Rygge - Huggenes             |1
 @@Vestfold
-26770   |Hof - Eikenes                |3
 26950   |Svelvik                      |1
 26990	|Sande - Galleberg            |1
 26996   |Sande - Lauvkollmyr          |9
@@ -136,7 +135,6 @@
 58900	|Stryn - Kroken               |4
 59450   |Stadlandet                   |1
 @@Møre og Romsdal
-59610	|Fiskåbygd                    |1
 59695   |Ørsta - Eitrefjell           |18
 60500	|Tafjord                      |3
 60650   |Linge                        |3
