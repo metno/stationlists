@@ -138,7 +138,6 @@
 60500	|Tafjord                      |3
 60650   |Linge                        |3
 60800   |Ørskog                       |1
-60945   |Ålesung IV                   |1
 60990	|Vigra                        |1
 61410	|Mannen                       |31
 61420	|Marstein                     |4
