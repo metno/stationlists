@@ -1,4 +1,4 @@
-@@Hedmark
+@@Innlandet
 180     |Trysil vegstasjon            |14
 700     |Drevsjø                      |18
 5350    |Nord-Odal                    |7
