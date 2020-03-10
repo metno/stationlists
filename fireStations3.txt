@@ -9,13 +9,11 @@
 8880    |Alvdal                       |16
 9160	|Folldal - Fredheim           |18
 9580	|Tynset - Hansmoen            |16
+11500	|Østre Toten - Apelsvoll      |10
 12180   |Ilseng                       |8
 12290	|Hamar II                     |7
 12320	|Hamar - Stavsberg            |9
 12550	|Kise på Hedmark              |7
-@@Oppland
-9310	|Hjerkinn II                  |31
-11500	|Østre Toten - Apelsvoll      |10
 12680	|Lillehammer - Sætherengen    |9
 13030   |Gausdal - Follebu            |12
 13150	|Fåvang                       |10
@@ -33,7 +31,17 @@
 23550	|Beitostølen II               |21
 54710	|Filefjell - Kyrkjestølane    |21
 61630	|Bjorli                       |16
-@@Buskerud
+@@Viken
+2650	|Aurskog II                   |2
+3290    |Rakkestad                    |1
+3370    |Øsaker                       |1
+4260    |Skedsmo - Hellerud           |3
+4460	|Hakadal Jernbanestasjon      |5
+4920	|Årnes                        |5
+17050   |Råde - Tomb                  |1
+17380   |Rygge - Huggenes             |1
+17850	|Ås                           |1
+19710	|Asker                        |3
 19940   |Lier                         |2
 20280   |Hønefoss - Hverven           |4
 20301	|Hønefoss - Høyby             |4
@@ -50,41 +58,27 @@
 18700	|Oslo - Blindern              |3
 18815	|Oslo - Bygdøy                |2
 18950   |Tryvannshøgda                |13
-@@Akershus
-2650	|Aurskog II                   |2
-4260    |Skedsmo - Hellerud           |3
-4460	|Hakadal Jernbanestasjon      |5
-4920	|Årnes                        |5
-17850	|Ås                           |1
-19710	|Asker                        |3
-@@Østfold
-3290    |Rakkestad                    |1
-3370    |Øsaker                       |1
-17050   |Råde - Tomb                  |1
-17380   |Rygge - Huggenes             |1
-@@Vestfold
+@@Vestfold og Telemark
 26950   |Svelvik                      |1
 26990	|Sande - Galleberg            |1
 26996   |Sande - Lauvkollmyr          |9
 27315   |Ramnes - Kile Vestre         |1
 27450	|Melsom                       |1
 27780   |Tjølling                     |1
-@@Telemark
 31400   |Fyriegg                      |27
 31620	|Møsstrand II                 |26
 32060	|Gvarv - Nes                  |2
 32890	|Høydalsmo II                 |13
 37230	|Tveitsund                    |4
-@@Aust-Agder
+@@Agder
 35210	|Gjerstad Jernbanestasjon     |1
 36560	|Nelaug                       |2
 38140	|Landvik                      |1
 38730	|Hynnekleiv                   |2
+39040   |Kjevik                       |1
 39750	|Byglandsfjord - Neset        |3
 40250	|Valle                        |4
 40880	|Hovden - Lundane             |24
-@@Vest-Agder
-39040   |Kjevik                       |1
 41090   |Mandal                       |1
 41175   |Laudal - Kleiven             |6
 41480   |Åseral                       |6
@@ -98,7 +92,7 @@
 45770   |Hjelmeland                   |1
 46610   |Sauda                        |1
 46930	|Vats i Vindafjord            |1
-@@Hordalad
+@@Vestland
 25830	|Finsevatn                    |30
 46430	|Røldalsfjellet               |28
 47498   |Etne II                      |1
@@ -116,11 +110,10 @@
 51530	|Vossevangen                  |1
 51800	|Mjølfjell                    |18
 52310   |Modalen III                  |1
-53530   |Midtstova                    |30
-@@Sogn og Fjordane
 52860	|Takle                        |1
 53101	|Vangsnes                     |1
 53480   |Klevavatnet                  |24
+53530   |Midtstova                    |30
 54110	|Lærdal IV                    |1
 55770	|Njøs                         |1
 55820	|Fjærland - Bremuseet         |1
@@ -193,7 +186,7 @@
 85560   |Leknes lufthavn              |14
 86500	|Sortland                     |14
 86520   |Sortland - Kleiva            |14
-@@Troms
+@@Troms og Finnmark
 87640	|Harstad stadion              |20
 89350   |Bardufoss                    |22
 89940	|Dividalen II                 |31
@@ -204,7 +197,6 @@
 91380	|Skibotn II                   |30
 91740	|Sørkjosen Lufthavn           |30
 92350	|Nordstraum i Kvænangen       |30
-@@Finnmark
 93140   |Alta lufthavn                |31
 93301	|Suolovuopmi - Lulit          |31
 93700	|Kautokeino                   |31
