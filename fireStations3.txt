@@ -6,7 +6,6 @@
 6020	|Flisa II                     |7
 7420	|Rena - Ørnhaugen             |20
 7950	|Rena Flyplass                |12
-8880    |Alvdal                       |16
 9160	|Folldal - Fredheim           |18
 9580	|Tynset - Hansmoen            |16
 11500	|Østre Toten - Apelsvoll      |10
@@ -15,7 +14,6 @@
 12320	|Hamar - Stavsberg            |9
 12550	|Kise på Hedmark              |7
 12680	|Lillehammer - Sætherengen    |9
-13030   |Gausdal - Follebu            |12
 13150	|Fåvang                       |10
 13420	|Venabu                       |20
 13655	|Skåbu                        |20
@@ -25,7 +23,6 @@
 16040   |Otta - Skansen               |12
 16271	|Høvringen II                 |30
 16610	|Fokstugu                     |30
-20540   |Gran                         |6
 21680   |Vest - Torpa II              |15
 23500	|Løken i Volbu                |15
 23550	|Beitostølen II               |21
@@ -35,34 +32,25 @@
 2650	|Aurskog II                   |2
 3290    |Rakkestad                    |1
 3370    |Øsaker                       |1
-4260    |Skedsmo - Hellerud           |3
 4460	|Hakadal Jernbanestasjon      |5
 4920	|Årnes                        |5
 17050   |Råde - Tomb                  |1
 17380   |Rygge - Huggenes             |1
 17850	|Ås                           |1
 19710	|Asker                        |3
-19940   |Lier                         |2
-20280   |Hønefoss - Hverven           |4
 20301	|Hønefoss - Høyby             |4
 24710   |Gulsvik II                   |4
 24890	|Nesbyen - Todokk             |6
 25630	|Geilo - Oldebråten           |20
-26350   |Sigdal - Nedre Eggedal       |4
-26820   |Hokksund                     |2
 26900	|Drammen - Berskog            |1
 27010	|Konnerud                     |6
 28380	|Kongsberg Brannstasjon       |5
 28922	|Veggli II                    |8
 @@Oslo
 18700	|Oslo - Blindern              |3
-18815	|Oslo - Bygdøy                |2
 18950   |Tryvannshøgda                |13
 @@Vestfold og Telemark
-26950   |Svelvik                      |1
-26990	|Sande - Galleberg            |1
 26996   |Sande - Lauvkollmyr          |9
-27315   |Ramnes - Kile Vestre         |1
 27450	|Melsom                       |1
 27780   |Tjølling                     |1
 31400   |Fyriegg                      |27
@@ -89,7 +77,6 @@
 44640	|Stavanger - Våland           |1
 45350	|Lysebotn                     |1
 45530	|Liarvatn                     |3
-45770   |Hjelmeland                   |1
 46610   |Sauda                        |1
 46930	|Vats i Vindafjord            |1
 @@Vestland
@@ -125,7 +112,6 @@
 @@Møre og Romsdal
 59695   |Ørsta - Eitrefjell           |18
 60500	|Tafjord                      |3
-60650   |Linge                        |3
 60800   |Ørskog                       |1
 60990	|Vigra                        |1
 61410	|Mannen                       |31
@@ -133,7 +119,6 @@
 62290   |Molde - Nøisomhed            |1
 63420	|Sunndalsøra III              |5
 64700   |Innerdalen                   |13
-64760   |Surnadal - Sylte             |3
 64870	|Tågdalen                     |13
 @@Trøndelag
 10380	|Røros Lufthavn               |22
@@ -153,7 +138,6 @@
 69100   |Værnes                       |8
 69150	|Kvithamar                    |8
 69380	|Meråker - Vardetun           |11
-69655   |Frosta                       |9
 70150   |Verdal - Reppe               |9
 70850	|Snåsa - Kjevlia              |12
 71320   |Rissa III                    |8
