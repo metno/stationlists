@@ -168,7 +168,6 @@
 84900   |Bjørnfjell                   |31
 85080   |Kanstadbotn                  |14
 85560   |Leknes lufthavn              |14
-86500	|Sortland                     |14
 86520   |Sortland - Kleiva            |14
 @@Troms og Finnmark
 87640	|Harstad stadion              |20
