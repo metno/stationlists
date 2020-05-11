@@ -67,7 +67,7 @@
 31620	|Møsstrand II                 |26
 32060	|Gvarv - Nes                  |2
 32890	|Høydalsmo II                 |13
-33890 |Vågsli                       |22
+33890   |Vågsli                       |22
 37230	|Tveitsund                    |4
 @@Agder
 35210	|Gjerstad Jernbanestasjon     |1
@@ -81,7 +81,7 @@
 41090   |Mandal                       |1
 41175   |Laudal - Kleiven             |6
 41480   |Åseral                       |6
-41825 |Lyngdal                      |1
+41825   |Lyngdal                      |1
 42940	|Sirdal - Sinnes              |13
 @@Rogaland
 43010	|Eik - Hove                   |2
