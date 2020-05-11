@@ -144,18 +144,19 @@
 67140   |Skjetlein                    |9
 67280	|Soknedal                     |12
 67560	|Kotsøy                       |9
-68050   |Lade                         |9
-68120   |Saupstad                     |9
-68125   |Sverresborg                  |9
 68290	|Selbu II                     |10
 68860	|Trondheim - Voll             |9
 69100   |Værnes                       |8
 69150	|Kvithamar                    |8
 69380	|Meråker - Vardetun           |11
+69655 |Frosta                       |9
+70680 |Mære III                     |9
 70850	|Snåsa - Kjevlia              |12
+71000 |Steinkjer - Søndre Egge      |9
 71320   |Rissa III                    |8
 71550	|Ørland III                   |8
 71780	|Åfjord II                    |8
+73466 |Nordli - Sandvika            |18
 73550	|Gartland                     |10
 74350	|Namsskogan                   |11
 @@Nordland
@@ -168,6 +169,7 @@
 79700   |Storforshei                  |13
 79764	|Hjartåsen                    |14
 80200   |Lurøy                        |13
+80705 |Glomfjord - Skihytta         |26
 80740	|Reipå                        |14
 81775	|Lønsdal stasjon              |26
 82000	|Setså                        |14
@@ -182,8 +184,8 @@
 86520   |Sortland - Kleiva            |14
 @@Troms og Finnmark
 87640	|Harstad stadion              |20
+88100 |Bones i Bardu                |31
 89350   |Bardufoss                    |22
-89940	|Dividalen II                 |31
 89980   |Tamokdalen                   |31
 90100   |Malangen - Pålfinnmoen       |25
 90450	|Tromsø                       |23
