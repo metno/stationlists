@@ -36,7 +36,7 @@
 61630	|Bjorli                       |16
 @@Viken
 2650	|Aurskog II                   |2
-3190  |Sarpsborg                    |1
+3190    |Sarpsborg                    |1
 3290    |Rakkestad                    |1
 3370    |Øsaker                       |1
 4460	|Hakadal Jernbanestasjon      |5
@@ -49,13 +49,13 @@
 24710   |Gulsvik II                   |4
 24890	|Nesbyen - Todokk             |6
 25630	|Geilo - Oldebråten           |20
-26350 |Sigdal - Nedre Egge          |4
+26350   |Sigdal - Nedre Egge          |4
 26900	|Drammen - Berskog            |1
 27010	|Konnerud                     |6
 28380	|Kongsberg Brannstasjon       |5
 28922	|Veggli II                    |8
 @@Oslo
-18500 |Bjørnholt                    |9
+18500   |Bjørnholt                    |9
 18700	|Oslo - Blindern              |3
 18950   |Tryvannshøgda                |13
 @@Vestfold og Telemark
