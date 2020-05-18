@@ -38,7 +38,6 @@
 2650	|Aurskog II                   |2
 3190    |Sarpsborg                    |1
 3290    |Rakkestad                    |1
-3370    |Øsaker                       |1
 4460	|Hakadal Jernbanestasjon      |5
 4920	|Årnes                        |5
 17050   |Råde - Tomb                  |1
