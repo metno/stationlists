@@ -16,7 +16,6 @@
 12550	|Kise på Hedmark              |7
 12680	|Lillehammer - Sætherengen    |9
 12960   |Sjusjøen - Storåsen          |20
-13150	|Fåvang                       |10
 13420	|Venabu                       |20
 13655	|Skåbu                        |20
 14200	|Leirflaten                   |16
@@ -120,9 +119,8 @@
 59450   |Stadlandet                   |1
 @@Møre og Romsdal
 59695   |Ørsta - Eitrefjell           |18
-60830   |Skodje                       |1
 60500	|Tafjord                      |3
-60800   |Ørskog                       |1
+60830   |Skodje                       |1
 60990	|Vigra                        |1
 61410	|Mannen                       |31
 61420	|Marstein                     |4
