@@ -95,7 +95,6 @@
 46430	|Røldalsfjellet               |28
 47498   |Etne II                      |1
 49085   |Folgefonna skisenter         |30
-49420   |Skjeggedal                   |11
 49490	|Ullensvang                   |1
 50070	|Kvamsøy                      |1
 50310	|Kvamskogen - Jonshøgdi       |3
@@ -121,7 +120,6 @@
 59695   |Ørsta - Eitrefjell           |18
 60500	|Tafjord                      |3
 60830   |Skodje                       |1
-60990	|Vigra                        |1
 61410	|Mannen                       |31
 61420	|Marstein                     |4
 62290   |Molde - Nøisomhed            |1
@@ -150,7 +148,6 @@
 70680   |Mære III                     |9
 70850	|Snåsa - Kjevlia              |12
 71000   |Steinkjer - Søndre Egge      |9
-71320   |Rissa III                    |8
 71550	|Ørland III                   |8
 71780	|Åfjord II                    |8
 73466   |Nordli - Sandvika            |18
@@ -187,7 +184,6 @@
 90100   |Malangen - Pålfinnmoen       |25
 90450	|Tromsø                       |23
 91180   |Lenangsstraumen              |24
-91380	|Skibotn II                   |30
 92350	|Nordstraum i Kvænangen       |30
 93140   |Alta lufthavn                |31
 93301	|Suolovuopmi - Lulit          |31
